@@ -7,6 +7,8 @@
 *******************************
 
 # Uputstvo
+
+  **Vazno** Sa linka https://drive.google.com/drive/folders/1eVPMw9bqE2slH9YEJYSTr7ICOjlPQ-ve?usp=sharing preuzeti folder objects i ubaciti u folder resources (nije bilo moguce dodati ga zbog velicine)
   1. **Pomeranje kamere udesno**: Taster D
   2. **Pomeranje kamere ulevo**: Taster A
   3. **Udaljavanje kamere**: Taster S
